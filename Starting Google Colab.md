@@ -1,5 +1,9 @@
 ## Below are the written instructions to help you get started with the Python tutorials using Google Colab:
 
+# What is Google Colab?
+
+Google Colab is a browser-based product created by Google Research that allows to write and execute Python code without specific configuration.
+
 ## Step 1: Create or Sign in to your Google Account
 In order to use Google Colab, you will need a Google account. If you already have a Gmail account, you can use it to sign in to Google Colab. If you don't have a Google account, you can easily create one by following the steps provided by Google. 
 It's worth noting that some schools email addresses are also considered Google accounts, and you can use those to access Google Colab as well.
