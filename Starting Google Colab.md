@@ -4,6 +4,13 @@
 
 Google Colab is a browser-based product created by Google Research that allows to write and execute Python code without specific configuration.
 
+# What is Google Colab Used For?
+
+Google Colab is used to run Python in a browser without the need of a complex implementation
+Why use Google Colab?
+
+Google Colab is a free and easy to use Jupyter Notebook that provide free GPUs, a valuable resource for machine learning tasks
+
 ## Step 1: Create or Sign in to your Google Account
 In order to use Google Colab, you will need a Google account. If you already have a Gmail account, you can use it to sign in to Google Colab. If you don't have a Google account, you can easily create one by following the steps provided by Google. 
 It's worth noting that some schools email addresses are also considered Google accounts, and you can use those to access Google Colab as well.
