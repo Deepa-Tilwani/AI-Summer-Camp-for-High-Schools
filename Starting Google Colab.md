@@ -1,10 +1,10 @@
-##Below are the written instructions to help you get started with the Python tutorials using Google Colab:
+## Below are the written instructions to help you get started with the Python tutorials using Google Colab:
 
-##Step 1: Create or Sign in to your Google Account
+## Step 1: Create or Sign in to your Google Account
 In order to use Google Colab, you will need a Google account. If you already have a Gmail account, you can use it to sign in to Google Colab. If you don't have a Google account, you can easily create one by following the steps provided by Google. 
 It's worth noting that some schools email addresses are also considered Google accounts, and you can use those to access Google Colab as well.
 
-##Step 2: Access a Google Colab Notebook
+## Step 2: Access a Google Colab Notebook
 
 Go to [https://colab.research.google.com/](https://colab.research.google.com/). Click new notebook. 
 If you want a tour of the basics of Google colab go to 1:09 in [video](https://www.youtube.com/watch?v=iFroq4SuSPM&feature=youtu.be).
@@ -19,12 +19,12 @@ To begin using Google Colab, follow these steps to open a notebook:
 
 By following these instructions, you can easily open a Google Colab notebook and begin working on your Python projects.
 
-##Step 3 Hands on Google Colab
+## Step 3 Hands on Google Colab
 Go to [Python on Colab](https://colab.research.google.com/?utm_source=scs-index)
 
-(This Colaboratory is divided into 2 Sessions to complete with link provided as HW to review. Happy Learning!!) 
+(This Colaboratory is divided into 2 Sessions to complete with link provided as HW to review.)
 
-##Step 4 : Saving Notebooks To GitHub or Drive
+## Step 4 : Saving Notebooks To GitHub or Drive
 
 Any time you open a GitHub hosted notebook in Colab, it opens a new editable view of the notebook. 
 You can run and modify the notebook without worrying about overwriting the source.
@@ -32,3 +32,5 @@ You can run and modify the notebook without worrying about overwriting the sourc
 If you would like to save your changes from within Colab, you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. 
 Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts. 
 To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
+
+## Happy Learning!!
