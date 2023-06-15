@@ -47,6 +47,6 @@ To save a Colab notebook to GitHub requires giving Colab permission to push the 
 ## Explore More Here : 
 [Learn Complete Python](https://www.jcchouinard.com/learn-python/)
 <br>
-Go to [Python on Colab](https://colab.research.google.com/?utm_source=scs-index)
+Go here for hands on [Python on Colab](https://colab.research.google.com/?utm_source=scs-index)
 
 ## Happy Learning!!
