@@ -24,7 +24,7 @@ To begin using Google Colab, follow these steps to open a notebook:
 By following these instructions, you can easily open a Google Colab notebook and begin working on your Python projects.
 
 ## Step 3 Hands on Google Colab
-Go to [Python on Colab](https://colab.research.google.com/?utm_source=scs-index)
+
 
 (This Colaboratory is divided into 2 Sessions to complete with link provided as HW to review.)
 
@@ -36,5 +36,9 @@ You can run and modify the notebook without worrying about overwriting the sourc
 If you would like to save your changes from within Colab, you can use the File menu to save the modified notebook either to Google Drive or back to GitHub. 
 Choose File→Save a copy in Drive or File→Save a copy to GitHub and follow the resulting prompts. 
 To save a Colab notebook to GitHub requires giving Colab permission to push the commit to your repository.
+
+## Explore More Here : 
+
+Go to [Python on Colab](https://colab.research.google.com/?utm_source=scs-index)
 
 ## Happy Learning!!
