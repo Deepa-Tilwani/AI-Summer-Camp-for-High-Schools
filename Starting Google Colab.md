@@ -35,6 +35,10 @@ By following these instructions, you can easily open a Google Colab notebook and
 
 (This Colaboratory is divided into 2 Sessions to complete with link provided as HW to review.)
 
+[Intro To Python](https://github.com/Deepa-Tilwani/AI-Summer-Camp-for-High-Schools/blob/c699fa7a081da857dd0bb9a8b55153e3d6f720d8/Day_2_Session_1_A_.ipynb)
+
+[Python Basics](https://github.com/Deepa-Tilwani/AI-Summer-Camp-for-High-Schools/blob/c699fa7a081da857dd0bb9a8b55153e3d6f720d8/Python_Basics_Hands_On.ipynb)
+
 ## Step 4 : Saving Notebooks To GitHub or Drive
 
 Any time you open a GitHub hosted notebook in Colab, it opens a new editable view of the notebook. 
